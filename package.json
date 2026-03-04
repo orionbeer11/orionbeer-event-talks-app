@@ -1,0 +1,11 @@
+{
+    "name": "tech-event-website",
+    "version": "1.0.0",
+    "description": "A website for a single-day tech conference.",
+    "main": "build.js",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "author": "Gemini",
+    "license": "ISC"
+}

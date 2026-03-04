@@ -1,0 +1,44 @@
+[
+    {
+        "time": "10:00 - 11:00",
+        "title": "The Future of Artificial Intelligence",
+        "speakers": ["Dr. Evelyn Reed"],
+        "categories": ["AI", "Machine Learning"],
+        "description": "A deep dive into the future of AI and its potential impact on society."
+    },
+    {
+        "time": "11:10 - 12:10",
+        "title": "Modern JavaScript Frameworks",
+        "speakers": ["John Doe", "Jane Smith"],
+        "categories": ["JavaScript", "Web Development"],
+        "description": "An overview of the most popular JavaScript frameworks in 2026."
+    },
+    {
+        "time": "13:10 - 14:10",
+        "title": "Cybersecurity in the Cloud",
+        "speakers": ["Alice Johnson"],
+        "categories": ["Cybersecurity", "Cloud"],
+        "description": "Learn how to secure your cloud infrastructure from modern threats."
+    },
+    {
+        "time": "14:20 - 15:20",
+        "title": "The Rise of Quantum Computing",
+        "speakers": ["Bob Williams"],
+        "categories": ["Quantum Computing", "Physics"],
+        "description": "An introduction to the principles of quantum computing and its potential applications."
+    },
+    {
+        "time": "15:30 - 16:30",
+        "title": "Building Scalable Microservices",
+        "speakers": ["Charlie Brown", "Lucy van Pelt"],
+        "categories": ["Microservices", "Architecture"],
+        "description": "A practical guide to designing and building scalable microservices."
+    },
+    {
+        "time": "16:40 - 17:40",
+        "title": "The Ethics of Technology",
+        "speakers": ["David Miller"],
+        "categories": ["Ethics", "Technology"],
+        "description": "A discussion on the ethical implications of emerging technologies."
+    }
+]
